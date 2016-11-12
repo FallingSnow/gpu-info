@@ -9,7 +9,18 @@
   "keywords": [
     "GPU"
   ],
-  "author": "",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FallingSnow/gpu-info.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FallingSnow/gpu-info/issues"
+  },
+  "homepage": "https://github.com/FallingSnow/gpu-info#readme",
+  "author": "Ayrton Sparling <ayrton@sparling.us>",
   "license": "MIT",
   "dependencies": {
     "pegjs": "^0.10.0"
